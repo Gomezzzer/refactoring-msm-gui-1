@@ -13,7 +13,7 @@
 #  director_id :integer
 #
 class Movie < ApplicationRecord
-  #7:32
+  #9:32
   def director
      d_id = self.director_id
 
