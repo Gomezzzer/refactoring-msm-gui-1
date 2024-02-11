@@ -16,3 +16,4 @@ class Actor < ApplicationRecord
     my_id = self.id
   end
 end
+
